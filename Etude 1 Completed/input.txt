@@ -1,0 +1,10 @@
+. NNNN ....
+100
+
+. NNNN ....
+1000
+
+w ESWN bbbb
+b WNES wwww
+100
+# Foo

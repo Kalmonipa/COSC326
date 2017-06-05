@@ -1,0 +1,8 @@
+public class max{
+  
+  public static void main(String [] args){
+    System.out.println(int.MAX_VALUE);
+    System.out.println(long.MAX_VALUE);
+  }
+  
+}

@@ -1,0 +1,9 @@
+Fractal Report - Oliver Westenra
+
+Writing the recursive program was a lot simpler than the iterative because 
+you can just have a drawSquares function that draws the squares and call
+it on each of the squares. Iterative method is a lot more complex and took
+a lot longer to write. I calculated the measurements for each square and
+added it to an array and then take the first square off the array and add
+the coordinates for its surrounding squares to the array. 
+Recursive is better, iterative sucks.
